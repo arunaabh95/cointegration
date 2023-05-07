@@ -1,5 +1,5 @@
 # cointegration
-![Cointegration]([image_url](https://github.com/arunaabh95/cointegration/blob/master/static/login/images/icon.png))
+![Cointegration](https://github.com/arunaabh95/cointegration/blob/master/static/login/images/icon.png)
 
 Using Cointegration of stock pairs to implement arbitrage strategy. The given project is an implementation of KPSS startegy about which I learned from the following channel ![youtube](https://www.youtube.com/@NEDLeducation) 
 
